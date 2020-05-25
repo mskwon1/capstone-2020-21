@@ -55,7 +55,7 @@ const CODY_CATEGORIES = [
     ]
   }
 ]
-const SERVER_BASE_URL = 'http://localhost:8000'
+const SERVER_BASE_URL = 'http://ec2-13-209-67-120.ap-northeast-2.compute.amazonaws.com:8001/'
 
 export default {
   CLOTHES_CATEGORIES,
